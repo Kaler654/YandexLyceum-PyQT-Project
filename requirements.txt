@@ -1,0 +1,7 @@
+docx==0.2.4
+openpyxl==3.0.5
+PyQt5==5.13.2
+PyQt5-sip==12.8.1
+pyqt5-tools==5.13.2.1.6rc1
+python-docx==0.8.10
+python-pptx==0.6.18
